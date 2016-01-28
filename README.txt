@@ -14,7 +14,7 @@ To make a City Walking Tour follow the following steps:
 1. Download the proper data in your own data directory:
 	- GADM: http://www.gadm.org/
 	- OpenStreetMap: http://download.geofabrik.de/europe/netherlands.html
-	- Rijksmonumenten: cultureelerfgoed.nl/node/1385
+	- Rijksmonumenten: http://www.cultureelerfgoed.nl/node/1385
 2. If you want you make a csv file with other points of interest (poi) like the one in Pythonscript\\data\\examplequerylist.csv.
 	- If you use the python script to retrieve coordinates from googleapi with the addresses keep the following in mind:
 		- The fact that Google set maximum request quota and rate limit for the API services per IP address.*
