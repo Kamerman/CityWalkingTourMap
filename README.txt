@@ -27,7 +27,8 @@ To make a City Walking Tour follow the following steps:
 	- pay attention to your working directory and data directory.
 5. View your map 
 
-*In case you do reach your daily quota (IndexError) on your IP address you can check this just by copy-pasting the url of the API from the script in your browser and add a query instead of {}. If the limit is reached, google gives the following error:
+*In case you do reach your daily quota (IndexError) on your IP address you can check this just by copy-pasting the url of
+the API from the script in your browser and add a query instead of {}. If the limit is reached, google gives the following error:
 
 {
    "error_message" : "You have exceeded your daily request quota for this API. We recommend registering for a key at the Google Developers Console: https://console.developers.google.com/",
